@@ -1,0 +1,14 @@
+C:\Users\Jonas\source\repos\dnd sheet stat roller\dnd sheet stat roller\bin\Debug\dnd sheet stat roller.exe.config
+C:\Users\Jonas\source\repos\dnd sheet stat roller\dnd sheet stat roller\bin\Debug\dnd sheet stat roller.exe
+C:\Users\Jonas\source\repos\dnd sheet stat roller\dnd sheet stat roller\bin\Debug\dnd sheet stat roller.pdb
+C:\Users\Jonas\source\repos\dnd sheet stat roller\dnd sheet stat roller\obj\Debug\dnd sheet stat roller.csprojAssemblyReference.cache
+C:\Users\Jonas\source\repos\dnd sheet stat roller\dnd sheet stat roller\obj\Debug\dnd sheet stat roller.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\source\repos\dnd sheet stat roller\dnd sheet stat roller\obj\Debug\dnd sheet stat roller.exe
+C:\Users\Jonas\source\repos\dnd sheet stat roller\dnd sheet stat roller\obj\Debug\dnd sheet stat roller.pdb
+C:\Users\Jonas\Documents\Github\Projects\dnd sheet stat roller\dnd sheet stat roller\bin\Debug\dnd sheet stat roller.exe.config
+C:\Users\Jonas\Documents\Github\Projects\dnd sheet stat roller\dnd sheet stat roller\bin\Debug\dnd sheet stat roller.exe
+C:\Users\Jonas\Documents\Github\Projects\dnd sheet stat roller\dnd sheet stat roller\bin\Debug\dnd sheet stat roller.pdb
+C:\Users\Jonas\Documents\Github\Projects\dnd sheet stat roller\dnd sheet stat roller\obj\Debug\dnd sheet stat roller.csprojAssemblyReference.cache
+C:\Users\Jonas\Documents\Github\Projects\dnd sheet stat roller\dnd sheet stat roller\obj\Debug\dnd sheet stat roller.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\Github\Projects\dnd sheet stat roller\dnd sheet stat roller\obj\Debug\dnd sheet stat roller.exe
+C:\Users\Jonas\Documents\Github\Projects\dnd sheet stat roller\dnd sheet stat roller\obj\Debug\dnd sheet stat roller.pdb
